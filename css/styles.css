@@ -1,0 +1,25 @@
+.bg-1{
+	background-color: #CCFF99;
+}
+
+.bg-2{
+	background-color: #99FFCC;
+}
+
+.bg-3{
+	background-color: #000011;
+	color: white;
+}
+
+.container{
+	padding: 2em 0 2em 0;
+}
+
+.row img{
+	width: 100em;
+	height: 70em;
+}
+
+.map{
+	padding: 1em;
+}
